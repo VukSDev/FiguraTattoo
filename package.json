@@ -1,0 +1,11 @@
+{
+  "name": "figuratattoo",
+  "version": "1.0.0",
+  "description": "A site for a tattoo studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VukSDev",
+  "license": "ISC"
+}
